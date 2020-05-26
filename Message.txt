@@ -1,6 +1,5 @@
-Hey ${PERSON_NAME}!
+Hey Buddy!
 
 This is a test mail.
 
-Thanks!
-Archana
+-Archana
